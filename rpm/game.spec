@@ -1,9 +1,9 @@
-%define _app_orgname ru.sashikknox
-%define _app_appname AwesomeGame
-%define _app_launcher_name Офигенная игра
+%define _app_orgname ru.nighteugene
+%define _app_appname Sienna
+%define _app_launcher_name Sienna
 
 Name:       %{_app_orgname}.%{_app_appname}
-Summary:    Love2D Game Example for AuroraOS
+Summary:    Love2D Game Sienna for AuroraOS
 Release:    1
 Version:    1.0.0
 Group:      Amusements/Games
